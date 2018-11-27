@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Our Heroes</string>
+
+    <string-array name="heroesname">
+        <item>Bung Tomo</item>
+        <item>Mohammad Hatta</item>
+        <item>Pattimura</item>
+        <item>Tuanku Imam Bonjol</item>
+        <item>Cut Nyak Dhien</item>
+        <item>Ki Hajar Dewantara</item>
+        <item>Pangeran Diponegoro</item>
+        <item>RA Kartini</item>
+        <item>Jenderal Soedirman</item>
+        <item>Soekarno</item>
+    </string-array>
+
+    <string-array name="heroesdetail">
+        <item>Siapa yang tidak kenal dengan Bung Tomo? Sosok pahlawan nasional ini selalu diidentikkan dengan Hari Pahlawan yang diperingati setiap tanggal 10 November. Pejuang sekaligus tokoh jurnalis asal Surabaya itu berhasil mengobarkan semangat juang rakyat Indonesia dengan semboyan ‘Merdeka atau Mati’ dalam pertempuran besar melawan pasukan penjajah di Surabaya pada tanggal 10 November 1945. Peristiwa itu dikenang sebagai Hari Pahlawan.</item>
+        <item>Tokoh nasional yang lebih dikenal dengan sapaan Bung Hatta ini merupakan salah seorang proklamator. Sejak muda, pria kelahiran Bukittinggi, 12 Agustus 1902 dan lulusan Belanda ini sudah dikenal sebagai aktivis dan organisatoris, hingga jadi seorang negarawan yang sering mendampingi Soekarno dalam perjuangan kemerdekaan Indonesia. Setelah merdeka, dia pun diangkat sebagai Wakil Presiden Indonesia, bersama dengan Soekarno sebagai presiden.</item>
+        <item>Dia merupakan panglima perang dalam perjuangan rakyat Maluku melawan VOC Belanda. Di bawah komando Pattimura, sejumlah kerajaan Nusantara seperti Ternate dan Tidore bersatu menghadapi penjajah pada tahun 1817. Namun, pria yang bernama asli Thomas Matulessy ini tertangkap dan digantung di Ambon pada tanggal 16 Desember 1817. Kini namanya pun dikenang sebagai pahlawan nasional, dan dijadikan nama jalan, stadion dan universitas.</item>
+        <item>Perlawanan heroik ditunjukkan oleh Tuanku Imam Bonjol dalam Perang Padri di Sumatera Barat. Selama lima tahun, dia bersama pasukannya berhasil membuat penjajah kesulitan menghadapi Kaum Padri, hingga pada tahun 1838 Belanda akhirnya mampu menangkapnya melalui tipu muslihat. Dahsyatnya pertempuran ini diabadikan dalam bentuk museum dan Monumen Imam Bonjol yang berlokasi di Bonjol, Kabupaten Pasaman, Sumatera Barat.</item>
+        <item>Cut Nyak Dhien merupakan salah seorang pahlawan nasional perempuan dari Aceh. Dia ikut memimpin perlawanan rakyat terhadap Belanda pada masa Perang Aceh, sejak menikah dengan Teuku Umar di tahun 1880. Namun, pada tahun 1899, Teuku Umar pun gugur di tangan Belanda, sehingga Cut Nyak Dhien harus berjuang sendiri memimpin pasukannya, hingga kemudian dia ditangkap pasukan Belanda di Meulaboh, Aceh pada tahun 1901.</item>
+        <item>Nama Ki Hajar Dewantara identik dengan dunia pendidikan Indonesia. Bahkan, hari kelahiran pria asal Yogyakarta yang memiliki nama asli Raden Mas Soewardi Soerjaningrat ini pada tanggal 2 Mei pun diperingati sebagai Hari Pendidikan Nasional. Kiprahnya dalam dunia pendidikan adalah sebagai pendiri Perguruan Taman Siswa yang diperuntukkan untuk para penduduk pribumi pada zaman penjahan Belanda yang tidak bisa mendapatkan pendidikan.</item>
+        <item>Pahlawan nasional ini dikenal karena memimpin Perang Diponegoro di Jawa pada kurun waktu 1825-1830, yang tercatat sebagai perang dengan korban paling banyak dalam sejarah Indonesia. Selama lima tahun, perang terbuka terjadi di sejumlah daerah utam di hampir seluruh Pulau Jawa. Belanda pun sempat kesulitan menaklukkan Pangeran Diponegoro, dimana ribuan serdadu mereka menjadi korban dan menyebabkan kerugian 20 juta gulden.</item>
+        <item>Salah seorang pahlawan nasional perempuan ini telah menghabiskan sebagian hidupnya untuk memperjuangkan kesetaraan hak kaumnya. RA Kartini memang merupakan seorang perempuan ningrat yang memiliki pemikiran moderat. Dia pun mendirikan sekolah khusus untuk kaum perempuan bernama Sekolah Kartini di Semarang pada tahun 1912. Untuk mengenang perjuangannya, tanggal lahirnya pada 21 April diperingati sebagai Hari Kartini.</item>
+        <item>Diangkat sebagai Panglima Besar TKR (kini TNI) pada tanggal 18 Desember 1948 dengan pangkat jenderal, Soedirman pun langsung menghadapi Agresi Militer II oleh Belanda ke Yogyakarta sehari kemudian. Bersama dengan pasukan kecil dan dokter pribadi, dia memulai perlawanan gerilya selama tujuh bulan. Dia juga mengomandoi kegiatan militer di Jawa, termasuk Serangan Umum 1 Maret 1949 di Yogyakarta dipimpin Letnan Kolonel Soeharto.</item>
+        <item>Inilah pahlawan nasional yang paling menginspirasi bangsa Indonesia. Selain sebagai tokoh proklamator dan Presiden Indonesia yang pertama, Soekarno juga dikenal sebagai pencetus dasar Negara, Pancasila. Tidak hanya itu saja, dia juga adalah seorang orator yang handal dan politikus cerdas yang menguasai delapan bahasa. Tokoh bangsa yang dikenal dengan sapaan Bung Karno ini selalu bisa menggetarkan hati para pendengarnya saat berpidato.</item>
+    </string-array>
+</resources>
